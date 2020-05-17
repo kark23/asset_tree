@@ -18,8 +18,11 @@ From the same monthly trees, similar behavior to that shown in the paper is demo
 <div align="center">
   
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/surv.png?raw=true)
+
 Figure 3: Experimental Survival Ratio
+
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/surv_ratio.PNG?raw=true)
+
 Figure 4: Survival Ratio from: [Dynamics of market correlations: Taxonomy and portfolio analysis (2003)](https://arxiv.org/abs/cond-mat/0302546)
 
 </div>
