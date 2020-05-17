@@ -6,9 +6,13 @@ When implementing MST (minimum spanning tree), month to month average link lengt
 
 <div align="center">
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/link_l.png?raw=true)
+  
 Figure 1: Experimental Average Link Length
+
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/vix.PNG?raw=true)
+
 Figure 2: VIX from FRED
+
 </div>
 
 From the same monthly trees, similar behavior to that shown in the paper is demonstrated for link survival ratio. Lower spikes in survival ratio mean the link structure of the asset tree are changing more quickly during this period of time. It makes sense that the lowest survival ratio is exhibited during the peak of the crisis, as this is a good example of market regime change. Note that values between the two analyses do not directly scale because if the different input space choice.
