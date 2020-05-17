@@ -4,13 +4,10 @@ The purpose of this project was to give a renewed view of the content of the pap
 
 When implementing MST (minimum spanning tree), month to month average link length scales very similar with VIX. This intuitively makes sense as greater volatility would increase the distance metric of the return input space.
 
+<div align="center">
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/link_l.png?raw=true)
-<div align="center">
 Figure 1: Experimental Average Link Length
-</div>
-
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/vix.PNG?raw=true)
-<div align="center">
 Figure 2: VIX from FRED
 </div>
 
