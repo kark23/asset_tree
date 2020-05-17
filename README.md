@@ -46,4 +46,4 @@ Figure 7: Experimental Asset Tree (please click to view full)
 ## Conclusion:
 * MST average link length can be used as a decent proxy/alternative to VIX with this implementation
 * Low link survival rate can be used as an indicator of market regime change and weakening of relationship stability between assets
-* MST links and clustering can do a good job of differentiating industries, identifying closeness between industries, and linking potential candidates for pair/group trading
+* MST links and clustering can differentiate industries, identify closeness between industries, and link potential candidates for pair/group trading
