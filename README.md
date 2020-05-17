@@ -8,6 +8,7 @@ When implementing MST (minimum spanning tree), month to month average link lengt
 <div align="center">
 Figure 1: Experimental Average Link Length
 </div>
+
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/vix.PNG?raw=true)
 
 Figure 2: VIX from FRED
