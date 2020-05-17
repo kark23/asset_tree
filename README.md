@@ -21,6 +21,7 @@ From the same monthly trees, similar behavior to that shown in the paper is demo
 Figure 3: Experimental Survival Ratio
 
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/surv_ratio.PNG?raw=true)
+
 Figure 4: Survival Ratio from: [Dynamics of market correlations: Taxonomy and portfolio analysis (2003)](https://arxiv.org/abs/cond-mat/0302546)
 
 </div>
@@ -30,9 +31,13 @@ The final result is to visualize the larger asset tree in a manner where conclus
 <div align="center">
 
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/elbow.png?raw=true)
+
 Figure 5: Elbow method for K-Means clustering
+
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/topology_tree.PNG?raw=true)
+
 Figure 6: Asset Tree from: [Dynamics of market correlations: Taxonomy and portfolio analysis (2003)](https://arxiv.org/abs/cond-mat/0302546)
+
 ![alt text](https://github.com/kark23/asset_tree/blob/master/figs/full_tree.png?raw=true)
 Figure 7: Experimental Asset Tree (please click to view full)
 
