@@ -38,7 +38,7 @@ Figure 5: Elbow method for K-Means clustering
 
 Figure 6: Asset Tree from: [Dynamics of market correlations: Taxonomy and portfolio analysis (2003)](https://arxiv.org/abs/cond-mat/0302546)
 
-![alt text](https://github.com/kark23/asset_tree/blob/master/figs/full_tree.png?raw=true)
+![alt text](https://github.com/kark23/asset_tree/blob/master/figs/full_tree.jpg?raw=true)
 Figure 7: Experimental Asset Tree (please click to view full)
 
 </div>
