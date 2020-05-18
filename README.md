@@ -2,7 +2,7 @@
 
 The purpose of this project was to give a renewed view of the content of the paper [Dynamics of market correlations: Taxonomy and portfolio analysis (2003)](https://arxiv.org/abs/cond-mat/0302546), by using similar analysis throughout the last financial crisis. Data covers 2005-2012 and is based off EOD adjusted returns.
 
-When implementing MST (minimum spanning tree), month to month average link length scales very similar with VIX. This intuitively makes sense as greater volatility would increase the distance metric of the return input space.
+When implementing MST (minimum spanning tree), month to month average link length scales very similar with VIX. This intuitively makes sense as greater volatility would increase the distance metric within the return input space.
 
 <div align="center">
   
