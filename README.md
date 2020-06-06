@@ -1,4 +1,4 @@
-# Asset Tree/Clustering Analysis for Understanding of Recession Market Dynamics
+# Asset Tree/Clustering Analysis for Further Understanding of Recession Market Dynamics
 
 The purpose of this project was to give a renewed view of the content of the paper [Dynamics of market correlations: Taxonomy and portfolio analysis (2003)](https://arxiv.org/abs/cond-mat/0302546), by using similar analysis throughout the last financial crisis. Data covers 2005-2012 and is based off EOD adjusted returns.
 
