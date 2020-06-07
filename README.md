@@ -6,9 +6,9 @@ When implementing MST (minimum spanning tree), month to month average link lengt
 
 <div align="center">
   
-![alt text](https://github.com/kark23/asset_tree/blob/master/figs/link_l.png?raw=true)
+![alt text](https://github.com/kark23/asset_tree/blob/main/figs/link_l.png?raw=true)
 Figure 1: Experimental Average Link Length
-![alt text](https://github.com/kark23/asset_tree/blob/master/figs/vix.PNG?raw=true)
+![alt text](https://github.com/kark23/asset_tree/blob/main/figs/vix.PNG?raw=true)
 Figure 2: VIX from FRED
 
 </div>
@@ -17,10 +17,10 @@ From the same monthly trees, similar behavior to that shown in the paper is demo
 
 <div align="center">
   
-![alt text](https://github.com/kark23/asset_tree/blob/master/figs/surv.png?raw=true)
+![alt text](https://github.com/kark23/asset_tree/blob/main/figs/surv.png?raw=true)
 Figure 3: Experimental Survival Ratio
 
-![alt text](https://github.com/kark23/asset_tree/blob/master/figs/surv_ratio.PNG?raw=true)
+![alt text](https://github.com/kark23/asset_tree/blob/main/figs/surv_ratio.PNG?raw=true)
 
 Figure 4: Survival Ratio from: [Dynamics of market correlations: Taxonomy and portfolio analysis (2003)](https://arxiv.org/abs/cond-mat/0302546)
 
@@ -30,15 +30,15 @@ The final result is to visualize the larger asset tree in a manner where conclus
 
 <div align="center">
 
-![alt text](https://github.com/kark23/asset_tree/blob/master/figs/elbow.png?raw=true)
+![alt text](https://github.com/kark23/asset_tree/blob/main/figs/elbow.png?raw=true)
 
 Figure 5: Elbow method for K-Means clustering
 
-![alt text](https://github.com/kark23/asset_tree/blob/master/figs/topology_tree.PNG?raw=true)
+![alt text](https://github.com/kark23/asset_tree/blob/main/figs/topology_tree.PNG?raw=true)
 
 Figure 6: Asset Tree from: [Dynamics of market correlations: Taxonomy and portfolio analysis (2003)](https://arxiv.org/abs/cond-mat/0302546)
 
-![alt text](https://github.com/kark23/asset_tree/blob/master/figs/full_tree1.png?raw=true)
+![alt text](https://github.com/kark23/asset_tree/blob/main/figs/full_tree1.png?raw=true)
 Figure 7: Experimental Asset Tree (please click to view full)
 
 </div>
